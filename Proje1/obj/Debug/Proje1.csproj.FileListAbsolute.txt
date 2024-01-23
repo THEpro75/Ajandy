@@ -1,0 +1,17 @@
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\bin\Debug\Proje1.exe.config
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\bin\Debug\Proje1.exe
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\bin\Debug\Proje1.pdb
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\Proje1.csproj.SuggestedBindingRedirects.cache
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\Proje1.exe
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\Proje1.pdb
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\Proje1.AJANDY.resources
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\bin\Debug\aa\Proje1.resources.dll
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\bin\Debug\tr-TR\Proje1.resources.dll
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\Proje1.AJANDY.aa.resources
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\Proje1.AJANDY.tr-TR.resources
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\aa\Proje1.resources.dll
+B:\Visual 2\C#WinForm\KONSOL51WinForm\Proje1\Proje1\obj\Debug\tr-TR\Proje1.resources.dll
